@@ -1897,6 +1897,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\KardelRuveyda\\Desktop\\Projects\\MovieApp\\Views\\Home\\_movies.cshtml",
+      "TargetPath": "Views\\Home\\_movies.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\KardelRuveyda\\Desktop\\Projects\\MovieApp\\Views\\Shared\\_menu.cshtml",
+      "TargetPath": "Views\\Shared\\_menu.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\KardelRuveyda\\Desktop\\Projects\\MovieApp\\Views\\Movie\\List.cshtml",
       "TargetPath": "Views\\Movie\\List.cshtml",
       "FileKind": "mvc"
