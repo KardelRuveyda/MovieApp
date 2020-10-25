@@ -30,3 +30,5 @@ C:\Users\KardelRuveyda\Desktop\Projects\MovieApp\obj\Debug\netcoreapp2.2\MovieAp
 C:\Users\KardelRuveyda\Desktop\Projects\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.dll
 C:\Users\KardelRuveyda\Desktop\Projects\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.pdb
 C:\Users\KardelRuveyda\Desktop\Projects\MovieApp\obj\Debug\netcoreapp2.2\MovieApp.csproj.CopyComplete
+C:\Users\KardelRuveyda\Desktop\Projects\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\_movies.g.cshtml.cs
+C:\Users\KardelRuveyda\Desktop\Projects\MovieApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_menu.g.cshtml.cs
