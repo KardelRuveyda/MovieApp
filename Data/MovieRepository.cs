@@ -15,14 +15,16 @@ namespace MovieApp.Data
                     Id=1,
                     Name ="Love and Pride",
                     Description ="Romantic",
-                    ImageUrl ="1.jpg"
+                    ImageUrl ="1.jpg",
+                    CategoryId = 1
                 },
 
                                 new Movie(){
                     Id=2,
                     Name ="Hunger Games",
                     Description ="Fantastic",
-                    ImageUrl ="2.jpg"
+                    ImageUrl ="2.jpg",
+                    CategoryId = 2
                 },
                                 new Movie(){
                     Id=3,
@@ -34,7 +36,8 @@ namespace MovieApp.Data
                     Id=4,
                     Name ="Lara Croft Tomb Raider",
                     Description ="Action",
-                    ImageUrl ="4.jpg"
+                    ImageUrl ="4.jpg",
+                    CategoryId=3
                 }
             };
         }
